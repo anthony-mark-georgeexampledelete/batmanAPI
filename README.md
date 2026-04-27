@@ -1,5 +1,10 @@
 # batmanAPI
 # batmanAPI
+## Future Ideas
+
+- Gotham weather  
+- Alfred assistant  
+- Bat-Signal tracker  
 
 A fun Python project that interacts with a fictional Gotham City API to retrieve information about Batman villains, gadgets, vehicles, locations, and quotes.
 
